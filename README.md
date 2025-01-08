@@ -1,1 +1,1 @@
-https://pages.git.txstate.edu/zun7/MyPortfolio/
+https://suveshaupreti.github.io/Portfolio/
