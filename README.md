@@ -97,7 +97,3 @@ Portfolio/
 ## 📬 **Contact Me**  
 💼 **LinkedIn:** [linkedin.com/in/suveshaupreti](https://www.linkedin.com/in/suveshaupreti/)  
 📧 **Email:** suvesha2002@gmail.com  
-
----
-
-Would you like me to **commit this directly to your repo**, or will you add it manually? 🚀
