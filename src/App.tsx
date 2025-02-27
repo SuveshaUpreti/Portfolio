@@ -131,7 +131,7 @@ function App() {
       {
         title: "MathApp: Enhance Your Math Skills",
         description: "Math skills enhancement app with two game modes and real-time scoring",
-        image: "/images/math.png",
+        image: "/Portfolio/images/math.png",
         technologies: ["Next.js", "React", "Tailwind CSS", "Jest", "React Testing Library"],
         link: "https://github.com/SuveshaUpreti/MathGameApp"
       }
@@ -249,7 +249,7 @@ function App() {
 
     {/* Profile Image */}
     <img 
-      src="/images/myself.jpg" 
+      src="/Portfolio/images/myself.jpg" 
       alt="Suvesha Upreti" 
       className="w-full h-full object-cover rounded-full"
     />
