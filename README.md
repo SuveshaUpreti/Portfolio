@@ -2,7 +2,7 @@
 
 # 🚀 **Suvesha Upreti – Portfolio Website**  
 
-](https://suveshaupreti.github.io/Portfolio/assets/preview.png)  
+
 
 🌐 **Live Demo:** [suveshaupreti.github.io/Portfolio](https://suveshaupreti.github.io/Portfolio/)  
 
